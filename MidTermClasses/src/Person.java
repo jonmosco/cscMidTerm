@@ -1,6 +1,6 @@
 /**
  * Person class. This is the super class
- * @author jmosco
+ * @author Jon Mosco
  *
  */
 
