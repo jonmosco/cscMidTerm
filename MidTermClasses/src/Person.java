@@ -69,7 +69,7 @@ public class Person {
 
 /**
  * Student class extends the Person class
- * @author jmosco
+ * @author Jon Mosco
  *
  */
 class Student extends Person {
@@ -94,6 +94,7 @@ class Student extends Person {
 	/**
 	 * Override the toString() from he super class Person
 	 */
+	@Override
 	public String toString() {
 		return super.toString();
 	}
@@ -151,6 +152,7 @@ class Employee extends Person {
 	/**
 	 * Override the toString() from he super class Person
 	 */
+	@Override
 	public String toString() {
 		return super.toString();
 	}
@@ -185,6 +187,7 @@ class Staff extends Employee {
 	/**
 	 * Override the toString() from he super class Person
 	 */
+	@Override
 	public String toString() {
 		return super.toString();
 	}

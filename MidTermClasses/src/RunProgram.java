@@ -1,6 +1,6 @@
 /**
  * Main class
- * @author jmosco
+ * @author Jon Mosco
  *
  */
 public class RunProgram {
